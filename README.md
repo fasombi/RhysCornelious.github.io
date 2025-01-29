@@ -6,7 +6,7 @@ The strategy behind forking Rhys's portfolio includes enhancing keyword optimiza
 
 ## Quick Bio
 
-- **Location**: San Francisco, CA
+- **Location**: Waterloo, ON 
 - **University**: University of Waterloo
 - **Major**: Biomedical Engineering
 - **Class**: 2025
@@ -48,8 +48,7 @@ Eager to discover more about the innovative crossroads of engineering and health
 
 - **His GitHub**: [github.com/RhysCornelious](https://github.com/RhysCornelious)
 - **His Email**: rhyscornelious@gmail.com
-- **His Phone Number**:  (628)-276-5261
-
+- **His Phone Number**: (226)-349-8544
 Thank you for taking the time to explore this enhanced version of Rhys' portfolio. Here's to amplifying the reach of innovative minds and their contributions to the world of technology and medicine.
 
 ---
